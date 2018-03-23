@@ -1,5 +1,6 @@
 # DevOps
 
+https://www.azure.cn/solutions/oss-devops/
 
 node{
     stage('get clone'){
